@@ -8,6 +8,6 @@ aiogram, pymongo, requests, and essential: BRAIN
 
 # Run
 
-1. Fill config.py\
-2. Install requirements\
+1. Fill config.py
+2. Install requirements
 3. run main.py
